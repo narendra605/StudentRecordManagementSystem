@@ -49,3 +49,10 @@ StudentRecordManagementSystem/
 -OOP concepts in action
 -Using collections to manage dynamic data
 -Writing clean and professional Java code
+
+## 📸 Example Console Screenshots
+
+Here are screenshots of the tested operations (Add, View, Update, Delete):
+
+![Console Output 1](images/console_output1.png)
+![Console Output 2](images/console_output2.png)
